@@ -279,10 +279,7 @@ function scrollToActiveSong(){
         })
     },0)
 }
-
-function start(){
-
-}
+ 
 
 render()
 handleEvent()
